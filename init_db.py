@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-"""Help script for setting the DB if it's not created yet"""
+"""The help script for setting the DB if it's not created yet"""
 
 if __name__ == '__main__':
     from DBModel import DBObject
